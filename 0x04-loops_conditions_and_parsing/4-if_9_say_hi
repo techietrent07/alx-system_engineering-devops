@@ -9,6 +9,6 @@ do
 		echo "Hi"
 	else
 		echo "Best School"
-	if
+	fi
 	i=$(( i + 1 ))
 done
